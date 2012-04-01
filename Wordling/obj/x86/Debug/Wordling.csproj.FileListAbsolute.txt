@@ -1,0 +1,5 @@
+C:\Development\Wordling\Wordling\bin\Debug\Wordling.exe
+C:\Development\Wordling\Wordling\bin\Debug\Wordling.pdb
+C:\Development\Wordling\Wordling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\Wordling\Wordling\obj\x86\Debug\Wordling.exe
+C:\Development\Wordling\Wordling\obj\x86\Debug\Wordling.pdb
